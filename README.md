@@ -36,10 +36,10 @@ This project is completely unaffiliated with Microsoft.
 - Starter
 **Architecture:** x64
 **Status:** Somehow fucking boots.
-Contains NVME Drivers and QOL updates/drivers. 
-Retains most of Normal Window's features
-However, the wording will always be something else.....
-You'll get your head round it.
+- Contains NVME Drivers and QOL updates/drivers. 
+- Retains most of Normal Window's features
+- However, the wording will always be something else.....
+- You'll get your head round it.
 
 ## DISCLAIMER
 Everything in here is a joke.
