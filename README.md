@@ -34,8 +34,8 @@ This project is completely unaffiliated with Microsoft.
 - Professional
 - Ultimate
 - Starter
-**Architecture:** x64
-**Status:** Somehow fucking boots.
+- **Architecture:** x64
+- **Status:** Somehow fucking boots.
 - Contains NVME Drivers and QOL updates/drivers. 
 - Retains most of Normal Window's features
 - However, the wording will always be something else.....
